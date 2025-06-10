@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Core Livekit dependencies
+livekit-agents>=0.9.0
+livekit-plugins-deepgram>=0.6.0
+livekit-plugins-openai>=0.7.0
+livekit-plugins-cartesia>=0.2.0
+livekit>=0.15.0
+
+# Data processing and Excel export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Additional utilities
+asyncio-mqtt>=0.11.0
